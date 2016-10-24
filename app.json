@@ -1,0 +1,14 @@
+{
+  "name": "React Universal Redux With Bootstrap 4",
+  "description": "A sample basic (no api calls) app that shows how to build React Redux app with Bootstrap 4",
+  "repository": "https://github.com/abador/react-universal-redux-bs-4",
+  "logo": "http://node-js-sample.herokuapp.com/node.svg",
+  "keywords": ["node", "express", "React", "React.js", "React", "Redux", "JavaScript", "MongoDB", "jwt"],
+  "image": "heroku/nodejs",
+  "env": {
+  	"NODE_ENV": {
+  		"description": "Node environment",
+  		"value": "production"
+  	}
+  }
+}
